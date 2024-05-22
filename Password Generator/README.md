@@ -23,10 +23,10 @@ https://sahchandan781.github.io/30Days30JavaScriptProject/Password%20Generator
 
 2. Navigate to the Password Generator directory:
 
-  bash
+   bash
 
-  cd 30Days30JavaScriptProject/Password\ Generator
-  Open the index.html file in a web browser or using a live server extension in your code editor.
+   cd 30Days30JavaScriptProject/Password\ Generator
+   Open the index.html file in a web browser or using a live server extension in your code editor.
 
 3. Customize the password length and character types as desired, then click the "Generate Password" button to create a random password.
 
