@@ -20,11 +20,11 @@ https://sahchandan781.github.io/30Days30JavaScriptProject/Daily%20Quote
    ```bash
    git clone https://github.com/sahchandan781/30Days30JavaScriptProject.git
 
-2.Navigate to the Daily Quote directory:
+2. Navigate to the Daily Quote directory:
 
-bash
+   bash
 
-cd 30Days30JavaScriptProject/Daily\ Quote
+   cd 30Days30JavaScriptProject/Daily\ Quote
 
 3. Open the index.html file in a web browser or using a live server extension in your code editor.
 
@@ -32,4 +32,4 @@ cd 30Days30JavaScriptProject/Daily\ Quote
 
 
 Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
+ Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
