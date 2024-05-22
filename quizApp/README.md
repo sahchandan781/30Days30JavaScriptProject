@@ -33,6 +33,7 @@ https://sahchandan781.github.io/30Days30JavaScriptProject/quizApp
 4. Choose a quiz category, answer the questions within the specified time limit, and view your score at the end of the quiz.
 
 Contributing
+
   Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or create a pull request.
 
 
